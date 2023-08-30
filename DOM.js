@@ -1,7 +1,7 @@
-var producn = document.getElementById("product-Name");
-var productpp = document.getElementById("product-price");
-var productDate = document.getElementById("product-date");
-var productdes= document.getElementById("product-description");
+// var producn = document.getElementById("product-Name");
+// var productpp = document.getElementById("product-price");
+// var productDate = document.getElementById("product-date");
+// var productdes= document.getElementById("product-description");
 
 
 // var tabl = document.getElementById("tabl");
@@ -9,8 +9,8 @@ var productdes= document.getElementById("product-description");
 // var clm1 = document.createElement("td");
 // var clm2 = document.createElement("td");
 // var clm3 = document.createElement("td");
-// var clm4 = document.createElement("td");
-var addBtn=document.getElementById("expense-btn");
+// // var clm4 = document.createElement("td");
+// var addBtn=document.getElementById("expense-btn");
 
 // var value =addBtn.addEventListener("click",function(){
 //     var newrow =tabl.appendChild(row);
@@ -28,8 +28,7 @@ var addBtn=document.getElementById("expense-btn");
 
 
 
-
-})
+console.log(document.documentElement);
 
 
 
