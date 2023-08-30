@@ -33,7 +33,11 @@
 // console.log(document.head);
 
 //Children Nodes (nodes due to the indentation)
-console.log(document.body.childNodes);
+// console.log(document.body.childNodes);
+
+//child 
+
+console.log(document.body.children);
 
 
 
