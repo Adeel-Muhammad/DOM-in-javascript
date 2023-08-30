@@ -29,9 +29,11 @@
 //Root node
 
 // console.log(document.documentElement);
-console.log(document.body);
-console.log(document.head);
+// console.log(document.body);
+// console.log(document.head);
 
+//Children Nodes (nodes due to the indentation)
+console.log(document.body.childNodes);
 
 
 
