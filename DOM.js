@@ -55,7 +55,7 @@
 
 let oderlist = document.querySelector(".UnorderedList");
 
-console.log(oderlist.parentNode.parentNode);
+console.log(oderlist.parentElement);
 
 
 
