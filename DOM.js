@@ -45,8 +45,17 @@
 // console.log(document.body.firstChild);
 // console.log(document.body.lastChild);
 
+// var listItem = document.querySelectorAll(".list");
+// console.log(listItem);
 
 
+// var li = document.querySelectorAll("li");
+
+// li[0].style.backgroundColor="green"
+
+let oderlist = document.querySelector(".UnorderedList");
+
+console.log(oderlist.parentNode.parentNode);
 
 
 
